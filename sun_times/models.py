@@ -1,1 +1,1 @@
-from django.db gimport models
+from django.db import models
